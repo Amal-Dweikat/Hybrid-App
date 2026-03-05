@@ -1,6 +1,5 @@
 import React from 'react';
-import { StyleSheet } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { StyleSheet , SafeAreaView } from 'react-native';
 import { WebView } from 'react-native-webview';
 
 export default function App() {
